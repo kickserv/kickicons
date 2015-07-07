@@ -1,0 +1,23 @@
+{
+  "name": "kickserv",
+  "version": "1.0",
+  "description": "Kickserv's icon font",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kickserv/kickicons.git"
+  },
+  "keywords": [
+    "Kickserv",
+    "icons",
+    "font",
+    "web font",
+    "icon font"
+  ],
+  "author": "Brian Nelson <brian@kickserv.com>",
+  "license": "SIL OFL 1.1, MIT",
+  "bugs": {
+    "url": "https://github.com/kickserv/kickicons/issues"
+  },
+  "homepage": "https://dojo.kickserv.com"
+}

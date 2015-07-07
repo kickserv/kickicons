@@ -1,0 +1,30 @@
+{
+  "name": "kickicons",
+  "description": "Kickserv's icon font",
+  "license": [
+    "OFL-1.1",
+    "MIT"
+  ],
+  "homepage": "https://dojo.kickserv.com",
+  "authors": [
+    "Brian Nelson <brian@kickserv.com>"
+  ],
+  "main": [
+    "kickicons/sprockets-kickicons.scss",
+    "kickicons/kickicons.eot",
+    "kickicons/kickicons.svg",
+    "kickicons/kickicons.ttf",
+    "kickicons/kickicons.woff"
+  ],
+  "keywords": [
+    "Kickserv",
+    "icons",
+    "font",
+    "web font",
+    "icon font"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ]
+}
