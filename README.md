@@ -28,7 +28,7 @@ This is the [Bower][bower] package for [Kickserv Kickicons][kickicons].
 4. Simply use an icon in your HTML page:
 
   ``` html
-  <span class="octicon octicon-microscope"></span>
+  <span class="ki-microscope"></span>
   ```
 
 ### Rails' asset pipeline
