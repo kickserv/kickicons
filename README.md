@@ -118,6 +118,6 @@ Kickicons operates similarly to [Semver](http://semver.org/) with the following 
 - Patch: Unnoticeable tweaks — slight visual changes, package updates
 
 
-[kickicons]: http://dojo.kickserv.com
+[kickicons]: http://dojo.kickserv.com/icons
 [bower]: http://bower.io/
 [sprockets]: http://guides.rubyonrails.org/asset_pipeline.html
