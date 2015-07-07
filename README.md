@@ -6,7 +6,7 @@ This is the [Bower][bower] package for [Kickserv Kickicons][kickicons].
 
 1. Create a new file called *bower.json* (if you don't have one already).
 
-2. Add a new line for the Octicon dependency, pointing to the correct repository:
+2. Add a new line for the Kickicon dependency, pointing to the correct repository:
 
   ``` json
   {
@@ -37,7 +37,7 @@ Kickicons includes a stylesheet specifically for [Rails 4/Sprockets][sprockets].
 
 1. Create a new file called *vendor/assets/bower.json* (if you don't have one already).
 
-2. Add a new line for the Octicon dependency, pointing to the correct repository:
+2. Add a new line for the Kickicon dependency, pointing to the correct repository:
 
   ``` json
   {
